@@ -1,6 +1,7 @@
+//Código que scaneia dois números e fala qual é o maior  equal é o menor
 import java.util.Scanner;
 
-public class Ex1
+public class QualOMaior
 {
 	public static void main(String[] args) {
 	    Scanner scanner = new Scanner(System.in);
