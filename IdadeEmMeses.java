@@ -1,4 +1,4 @@
-//scan
+//Scaneia sua idade e trasnforma em meses e printa no log
 import java.util.Scanner;
 
 public class IdadeEmMeses
