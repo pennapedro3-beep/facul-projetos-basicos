@@ -1,6 +1,7 @@
+//Lista os nomes do array em letra maiuscula
 import java.util.List;
 import java.util.ArrayList;
-public class Ex4
+public class ListaArray
 {
 	public static void main(String[] args) {
 	    List<String> nomes = new ArrayList<>();
