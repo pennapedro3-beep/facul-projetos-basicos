@@ -1,3 +1,4 @@
+//scan
 import java.util.Scanner;
 
 public class IdadeEmMeses
