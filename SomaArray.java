@@ -1,5 +1,5 @@
-
-public class Ex3
+//Soma os números dentro d eum array
+public class SomaArray
 {
 	public static void main(String[] args) {
 	    int[] array = {3,10,7};
