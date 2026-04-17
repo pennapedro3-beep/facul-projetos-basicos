@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CodScan
+public class ScanearNome
 {
 	public static void main(String[] args) {
 	    Scanner sc = new Scanner(System.in); // cria objeto Scanner
