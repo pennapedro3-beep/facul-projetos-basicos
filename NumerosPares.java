@@ -1,7 +1,8 @@
+// Fala quais números são pares dentro de uma lista array
 import java.util.List;
 import java.util.ArrayList;
 
-public class Ex7
+public class NumerosPares
 {
 	public static void main(String[] args) {
 	    List<Integer> n = new ArrayList<>();
@@ -15,7 +16,7 @@ public class Ex7
 	   
 	   System.out.println("Pares: ");
 	   for(Integer num : n){
-	       if(num % 2 == 0){
+	       if(num % 2 == 0){ //Se o resto do número dividido por 2 for igual a 0 (par) faz o seguinte:
 
 	           System.out.println(num);
 	       }
