@@ -1,6 +1,7 @@
+//Código que classifica a nota do professor utilizando um sistema com if e if else
 import java.util.Scanner;
 
-public class Ex2
+public class ClassificaNota
 {
 	public static void main(String[] args) {
 	    Scanner scanner = new Scanner(System.in);
