@@ -1,6 +1,7 @@
+//Diz se o número escaneado é par ou não
 import java.util.Scanner;
 
-public class Ex6
+public class ParOuNao
 {
 	public static void main(String[] args) {
 	    Scanner scanner = new Scanner(System.in);
